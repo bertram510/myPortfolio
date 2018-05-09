@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 850px) {
+  main, .header-contents, .content {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
