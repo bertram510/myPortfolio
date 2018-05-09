@@ -103,11 +103,6 @@ hr {
   padding: 1.5em;
 }
 
-.projects-list-title a:hover,
-.projects-list-title a:active {
-  text-decoration: underline;
-}
-
 .content {
   display: flex;
   flex-wrap: wrap;
